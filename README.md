@@ -6,4 +6,8 @@
 
 ### 🔗 [shrivibhavan.com](https://shrivibhavan.com)
 
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=shrivibhavan&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
+
 </div>
